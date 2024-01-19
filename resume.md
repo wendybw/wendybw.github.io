@@ -1,7 +1,7 @@
 # Wendy Bu
 wsb22@uw.edu
 <br>
-www.linkedin.com/in/wendy-bu-754893244
+linkedin
 
 # Education
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7527GwN4fDi6dm1pmqA2YEbnsdJKx02f3RA&usqp=CAU)
@@ -30,3 +30,4 @@ Barista, Starbucks, Seattle, WA (October 2018 – September 2023)
 - Fostered a welcoming atmosphere, while adeptly managing high-volume orders, recognized as Partner of the Quarter twice for exceptional service.
 
 [Seattle Central College]: https://seattlecentral.edu/
+[linkedin]: www.linkedin.com/in/wendy-bu-754893244
